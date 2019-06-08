@@ -1,0 +1,8 @@
+# This blocklist helps Pi-hole's admin restrict news tracking
+
+0.0.0.0 smetrics.washingtonpost.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 usersegment.wpdigital.net
+0.0.0.0 targeting.washpost.nile.works
+0.0.0.0 cdn-api.arcpublishing.com
+0.0.0.0 adservice.google.com
